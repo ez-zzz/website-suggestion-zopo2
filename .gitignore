@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+venv/
+__pycache__/
+*.log
+*.tmp
+.vscode/
+*.swp
+.DS_Store
+npm-debug.log
+yarn-error.log
